@@ -1,9 +1,4 @@
 // made by Costache Madalin (lllll llll)
-// discord: costache madalin#8472
-
-
-
-
 var countApiKey = "resource_balancer";
 var countNameSpace="madalinoTribalWarsScripts"
 
