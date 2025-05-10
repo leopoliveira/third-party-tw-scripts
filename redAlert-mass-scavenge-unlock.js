@@ -1,19 +1,3 @@
-/*
- * Script Name: Mass Scavenging Unlock
- * Version: v1.3.1
- * Last Updated: 2023-09-04
- * Author: RedAlert
- * Author URL: https://twscripts.dev/
- * Author Contact: redalert_tw (Discord)
- * Approved: t14525689
- * Approved Date: 2021-01-28
- * Mod: JawJaw
- */
-
-/*--------------------------------------------------------------------------------------
- * This script can NOT be cloned and modified without permission from the script author.
- --------------------------------------------------------------------------------------*/
-
 // User Input
 if (typeof DEBUG !== 'boolean') DEBUG = false;
 
